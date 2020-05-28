@@ -7,9 +7,7 @@ class Home extends Component {
   }
   render() { 
     return (
-      <Fragment>
-        <Search />
-      </Fragment>
+      <Fragment>home页面</Fragment>
     );
   }
 }
